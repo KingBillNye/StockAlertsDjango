@@ -1,0 +1,2 @@
+# Everything devs need in addition to production requirements
+-r prod.txt
